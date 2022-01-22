@@ -1,5 +1,6 @@
 # There is example of valid lines of our public
 # You can add some links to different publics or users (not tested)
+# Вот пример:
 https://vk.com/ff_mgu
 https://vk.com/studcomff
 https://vk.com/sovet_phys
