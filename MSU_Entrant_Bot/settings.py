@@ -1,11 +1,11 @@
 import psycopg2
 import os, sys
 
-conn = psycopg2.connect(dbname='msu_enternat', user='mrkrap',
-                        password='5170', host='89.108.64.97')
+conn = psycopg2.connect(dbname='', user='',
+                        password='', host='')
 cursor = conn.cursor()  # обращаться будем через курсор
 
-BotToken = '1138792724:AAEjd0Lllp5RB_bXkprAZDsnbFjM6qOS2sM'  # @msu_entrant_bot
+BotToken = ''  # @msu_entrant_bot
 
 text_starter = "Привет! Меня зовут <b> MSU Entrant Bot </b> \U0001F44B" \
                "\n \nЯ буду твоим личным помощником при поступлении в МГУ. С моей помощью ты сможешь посмотреть " \
