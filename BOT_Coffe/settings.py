@@ -2,8 +2,8 @@ import psycopg2
 import os, sys
 import datetime
 
-conn = psycopg2.connect(dbname='coffee_bot', user='mrkrap',
-                        password='5170', host='89.108.64.97')
+conn = psycopg2.connect(dbname='', user='',
+                        password='', host='')
 # cursor = conn.cursor()  # обращаться будем через курсор
 
 BotToken = ''  # @coffee_friend_bot
