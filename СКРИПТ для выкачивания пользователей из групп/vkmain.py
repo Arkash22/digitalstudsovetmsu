@@ -2,7 +2,7 @@
 import vk,time,json
 
 # Здесь нужно вставить ПОЛЬЗОВАТЕЛЬСКИЙ токен
-vkToken= "bae8c75473f4e9d721c2c6e0ed98c2ea3c38ff5a74323e764bcb73e07b2f659183ad54b9406e31efa31b7"
+vkToken= ""
 
 # Имя файла, где указаны группы для дампа
 inp_fname="groups.txt"
