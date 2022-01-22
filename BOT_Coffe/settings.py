@@ -6,9 +6,9 @@ conn = psycopg2.connect(dbname='coffee_bot', user='mrkrap',
                         password='5170', host='89.108.64.97')
 # cursor = conn.cursor()  # обращаться будем через курсор
 
-BotToken = '1844556067:AAEogVCSRigM-63J6B997DZ6paxY8z1hCVI'  # @coffee_friend_bot
+BotToken = ''  # @coffee_friend_bot
 
-# BotToken = '915722742:AAEftZX0ZrGwmGMtng0pRVZ-gibmXkyh_5g'  # @softu_test_bot:
+# BotToken = ''  # @softu_test_bot:
 
 text_help = '<b>Контакты поддержки:</b>\n\n' \
             '\U0001F310"Наш сайт - <a href="https://vk.link/digitalstudsovetmsu">сайт сообщества в ВК</a> \n' \
